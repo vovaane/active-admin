@@ -86,7 +86,7 @@ module ActiveAdmin
         has_many_form.input builder_options[:sortable], as: :hidden
 
         contents << template.content_tag(:li, class: 'handle') do
-          "MOVE"
+          template.fa_icon("arrows-v 3x")
         end
       end
 

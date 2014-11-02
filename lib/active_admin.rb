@@ -12,6 +12,7 @@ require 'jquery-rails'
 require 'jquery-ui-rails'
 require 'coffee-rails'
 require 'arbre'
+require 'font-awesome-rails'
 
 require 'active_admin/helpers/i18n'
 
