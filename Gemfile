@@ -14,7 +14,7 @@ gem 'draper'
 gem 'pundit'
 
 # Utility gems used in both development & test environments
-gem 'rake', require: false
+gem "rake", '10.3'
 gem 'parallel_tests'
 
 # Debugging
